@@ -43,7 +43,7 @@ The `docker-compose.yml` file defines the following services:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/stanweb/spending-tracker-docker-compose.git
+    git clone https://github.com/stanweb/spendign-tracker-docker-compose.git
     ```
 2.  **Create a `.env` file:**
     Create a `.env` file in the root of the project and add the following environment variables:
